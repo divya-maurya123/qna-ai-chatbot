@@ -1,0 +1,39 @@
+/*
+cd "C:\Users\divya\OneDrive\ドキュメント\OneDrive\Desktop\Downloads\qna-ai-chatbot"
+*/
+
+
+/*
+cd ..
+*/
+
+
+/*
+npx concurrently "npm run dev --prefix backend" "npm run dev --prefix frontend"
+*/
+
+/*
+dir
+*/
+
+/*
+npm install --save-dev concurrently
+*/
+
+/*
+npm run dev
+*/
+
+/*
+npx concurrently "npm run dev --prefix backend" "npm run dev --prefix frontend"
+*/
+
+
+/* cd "C:\Users\divya\OneDrive\ドキュメント\OneDrive\Desktop\Downloads\qna-ai-chatbot\frontend"
+npm run dev
+*/
+
+/*
+cd "C:\Users\divya\OneDrive\ドキュメント\OneDrive\Desktop\Downloads\qna-ai-chatbot\backend"
+npm run dev
+*/
